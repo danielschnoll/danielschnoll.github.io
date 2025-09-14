@@ -165,7 +165,7 @@ I'm always interested in connecting with fellow developers, potential collaborat
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielschnoll/danielschnoll/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielschnoll/danielschnoll/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danielschnoll/danielschnoll/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielschnoll/danielschnoll.github.io/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielschnoll/danielschnoll.github.io/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danielschnoll/danielschnoll.github.io/output/pacman-contribution-graph.svg">
 </picture>
