@@ -142,11 +142,11 @@ The project repo has since been taken down, but this was a project built for my 
 
 ## 🎓 Education & Certifications
 
-### 🎓 B.Sc. Computer Science (conc. Systems and Software)
-**Rensselaer Polytechnic Institute** | 🗓️ Aug. 2020
+### Rensselaer Polytechnic Institute | 🗓️ May 2020
+**B.Sc. Computer Science (conc. Systems and Software)**
 - 📚 Relevant Coursework: Data Structures, Principles of Software, Algorithms, Programming Languages, Database Systems, Software Design and Documentation, Operating Systems, Network Programming, Intro to Artificial Intelligence
 
-### 🎓 B.Sc. Information Technology & Web Science (conc. Web Technologies)
+**B.Sc. Information Technology & Web Science (conc. Web Technologies)**
 - 📚 Relevant Coursework: Web Systems Development, Managing IT Resources, Web Science Systems Development, IT Capstone
 
 ### 📜 Certifications
@@ -156,7 +156,7 @@ The project repo has since been taken down, but this was a project built for my 
 
 ## 🤝 Let's Connect!
 
-I'm always interested in connecting with fellow developers, potential collaborators, and anyone passionate about technology. Feel free to reach out to me on LinkedIn, or explore my GitHub profile to look at past projects.
+I'm always interested in connecting with fellow developers, potential collaborators, technology and business leaders, and anyone else passionate about the industry. Feel free to reach out to me on LinkedIn, or explore my GitHub profile to look at past projects.
 
 ### 📬 Contact Information
 - 💼 **LinkedIn:** [linkedin.com/in/danielschnoll](https://linkedin.com/in/yourprofile)
