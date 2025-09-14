@@ -1,3 +1,7 @@
+---
+title: "Daniel Schnoll's Homepage - Full Stack Software Engineer"
+---
+
 # 👋 Ahoy! My name is Dan!
 
 ### 🚀 Full Stack Developer | 👨🏻‍💻 Tech Enthusiast | 🧩 Puzzle Solver

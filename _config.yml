@@ -3,3 +3,28 @@ title: Daniel Schnoll's Homepage - Full Stack Software Engineer
 description: Helping organizations build incredible user experiences to improve product usability and drive brand loyalty.
 baseurl: ""
 url: "https://danielschnoll.com"
+
+# Author information
+author:
+  name: Daniel Schnoll
+  linkedin: danielschnoll
+  github: danielschnoll
+
+# SEO and Social Media
+lang: en-US
+timezone: America/New_York
+
+# GitHub Pages specific
+github_username: danielschnoll
+linkedin_username: danielschnoll
+
+# Site behavior
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
