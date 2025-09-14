@@ -150,16 +150,16 @@ The project repo has since been taken down, but this was a project built for my 
 
 ## 🤝 Let's Connect!
 
-I'm always interested in connecting with fellow developers, potential collaborators, and anyone passionate about technology. Feel free to reach out!
+I'm always interested in connecting with fellow developers, potential collaborators, and anyone passionate about technology. Feel free to reach out to me on LinkedIn, or explore my GitHub profile to look at past projects.
 
 ### 📬 Contact Information
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
 - 💼 **LinkedIn:** [linkedin.com/in/danielschnoll](https://linkedin.com/in/yourprofile)
 - 🐙 **GitHub:** [github.com/danielschnoll](https://github.com/yourusername)
 
-### 💬 Open to:
-- 🤝 Collaboration on interesting projects
-- 💡 Discussing new technologies and ideas
-- 🎯 Job opportunities
-- 📚 Mentoring and knowledge sharing
-- ☕ Virtual coffee chats
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielschnoll/danielschnoll/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielschnoll/danielschnoll/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danielschnoll/danielschnoll/output/pacman-contribution-graph.svg">
+</picture>
