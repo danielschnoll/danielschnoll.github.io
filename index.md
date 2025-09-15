@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Daniel Schnoll's Homepage - Full Stack Software Engineer"
+description: "Daniel Schnoll is an experienced full stack software engineer helping organizations build incredible user experiences to improve product usability and drive brand loyalty."
 ---
 
 # 👋 Ahoy! My name is Dan!
